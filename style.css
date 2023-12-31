@@ -1,0 +1,261 @@
+h1 {
+    background-color: red;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-weight: bold;
+    background-size: auto;
+    color: yellowgreen;
+    font-size: 70px;
+    border: 2px solid #fff;
+    outline: 5px solid red;
+    transition: 2s;
+}
+h1:hover {
+    font-size: 60px;
+    color: orange;
+    cursor: pointer;
+    background-color: olivedrab;
+}
+h2 {
+   text-align: center;
+   font-size: 45px;
+   color: red;
+   height: 60px;
+   padding: 7px;
+   margin: auto;
+   display: table;
+   font-family: courgette;
+   margin-bottom: 30px;
+}
+.soboj {
+    width: 630px;
+    height: 290px;
+    background-color: green;
+    margin: auto;
+    position: relative;
+    margin-bottom: 55px;
+    }
+
+ .lal {
+    border-radius: 50%;
+    background-color: red;
+    width: 235px;
+    height: 235px;
+    margin: auto;
+    position: absolute;
+    left: -52px;
+    right: -35px;
+    bottom: 0px;
+    top: 0px;
+ }   
+
+
+
+
+
+ .lily {
+    display: inline-block;
+ }
+
+.lily-image {
+    width: 48%;
+    height: 340px;
+    border: 17px groove yellow;
+    background-image: url(images/lily.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.lily-content {
+    display: inline-block;
+    width: 37%;
+    margin-left: 85px;
+}
+
+.lily-title h3 {
+    color: yellow;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+.lily-title h3 span {
+    color: rgb(0, 255, 76);
+    font-style: italic;
+
+}
+
+.lily-content p {
+    font-size: 20px;
+    text-align: justify;
+}
+ 
+
+
+
+
+.jack-fruit {
+    display: inline-block;
+}
+
+ .jack-fruit-image {
+    background-image: url(images/jackfruit.jpg);
+    height: 340px;
+    width: 48%;
+    margin-top: 50px ;
+    border: 17px groove gold;
+    background-size: cover;
+    display: inline-block;
+    background-repeat: no-repeat;
+    padding: 10px;
+    margin-left: 90px;
+ 
+
+
+ }
+ .jackfruit-content p {
+    font-size: 20px;
+    text-align: justify;
+ }
+ .jack-title h3 {
+    color: gold;
+    font-size: 40px;
+    margin-bottom: 30px;
+    
+ }
+  .jackfruit-content {
+    display: inline-block;
+    width: 40%;
+
+  }  
+  .jack-title h3 span {
+      color: rgb(0, 255, 76);
+      font-style: italic;
+  }
+
+
+
+
+
+  .magpie {
+    display: inline-block;
+  }
+   
+.magpie-image {
+    background-image: url(images/magpie.jpg);
+    width: 45%;
+    height: 340px;
+    border: 17px groove black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 50px;
+    background-position: center;
+    display: inline-block;
+    margin-right: 15px;
+}
+.magpie-title h3 {
+      color: black;
+      font-size: 40px;
+      margin-bottom: 20px;
+
+}
+.magpie-content p {
+    font-size: 18px;
+    text-align: justify;
+
+}
+.magpie-content {
+    width: 51%;
+    display: inline-block;
+}
+.magpie-title h3 span {
+    color: rgb(0, 255, 76);
+    font-style: italic;
+}
+
+
+
+
+
+.tiger {
+    display: inline-block;
+}
+
+.tiger-image {
+    background-image: url(images/tiger.jpg);
+    width: 45%;
+    height: 340px;
+    border: 17px groove goldenrod;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    margin-left: 150px;
+}
+.tiger-title h3 {
+    font-size: 40px;
+    color: goldenrod;
+    margin-bottom: 20px;
+
+}
+.tiger-content p {
+    font-size: 20px;
+    display: inline-block;
+    text-align: justify;
+}
+.tiger-title h3 span {
+    color: rgb(0, 255, 76);
+    font-style: italic;
+} 
+.tiger-content {
+    width: 40%;
+    display: inline-block;
+    margin-left: 5px;
+}
+
+
+
+
+
+.llish {
+    display: inline-block;
+}
+
+.llish-image {
+    background-image: url(images/llish.jpg);
+    width: 45%;
+    height: 340px;
+    border: 17px groove silver;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;  
+    margin-top: 50px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 90px;
+}
+.llish-title h3 {
+    color: slategray;
+    font-size: 40px;
+}
+.llish-title h3 span {
+    color: green;
+    font-style: italic;
+}
+.llish-content p {
+    font-size: 20px;
+    display: inline-block;
+}
+.llish-content {
+    display: inline-block;
+    width: 40%;
+}
+
+
+
+
+
+
+
+ 
